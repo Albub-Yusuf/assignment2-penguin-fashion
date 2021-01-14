@@ -231,6 +231,15 @@ a:link, a:visited , a:hover , a:active {
 
   }
 
+  @media (max-width: 575px){
+
+      #subscribe{
+
+         width: 95%;
+      }
+
+  }
+
   @media (max-width: 387px) { 
 
    .penguin-brand-logo{
